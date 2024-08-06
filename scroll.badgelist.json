@@ -373,9 +373,9 @@
     },
     {
       "name": "Fanaticism Scroll Bridger Badge",
-      "image": "https://ipfs.io/ipfs/QmcN8G95crcR6EzMqk2JJkHAJ1sbbvacDsQZKzmo6H9ZQ4",
+      "image": "https://owlto.finance/icon/badge/gold.png",
       "description": "Owltors who complete five bridges to Scroll Network via Owlto Finance can claim the Badge.",
-      "badgeContract": "0x35CBf99F6F4d936b238f6f26b74cB49706d05Eae",
+      "badgeContract": "0xB9CD7EC2A2261AEA5B0251cf2394e5345C95df61",
       "issuer": {
         "name": "Owlto Finance",
         "logo": "https://scroll-eco-list.netlify.app/logos/Owlto Finance.png",
